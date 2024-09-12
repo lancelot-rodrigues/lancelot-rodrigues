@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, eu sou o Lancelot Rodrigues</h1>
 <h3 align="center">Estudante e apaixonado por ciência de dados e análise de dados</h3>
 
-- 🌱 Atualmente estou aprendendo **Python, Machine Learning, R, Estatística e SQL**
+- 🌱 Atualmente estou aprendendo **Inteligência Artificial**
 
 - 💬 Me pergunte sobre **Python, SQL, Machine Learning, Excel e Power BI**
 
