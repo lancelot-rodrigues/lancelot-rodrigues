@@ -1,13 +1,13 @@
 <h1 align="center">Oi 👋, eu sou o Lancelot Rodrigues</h1>
 <h3 align="center">Estudante e apaixonado por ciência de dados e análise de dados</h3>
 
-- 🌱 Atualmente estou aprendendo **Inteligência Artificial**
+- 🌱 Estudante de **Inteligência Artificial**
 
-- 💬 Me pergunte sobre **Python, SQL, Machine Learning, Excel e Power BI**
+- 💬 Hábil em **Python, SQL, Machine Learning, Excel e Power BI**
 
 - 📫 Você me acha através do e-mail **lancelot.rodrigues@outlook.com**
 
-- 📄 Fui gerente por dois anos e estou em transição para a área de dados [https://www.linkedin.com/in/lancelot-rodrigues/](https://www.linkedin.com/in/lancelot-rodrigues/)
+- 📄 Fui gerente por um ano e estou em transição para a área de dados [https://www.linkedin.com/in/lancelot-rodrigues/](https://www.linkedin.com/in/lancelot-rodrigues/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
