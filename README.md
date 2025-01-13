@@ -7,7 +7,7 @@
 
 - 📫 Você me acha através do e-mail **lancelot.rodrigues@outlook.com**
 
-- 📄 Fui gerente por um ano e estou em transição para a área de dados [https://www.linkedin.com/in/lancelot-rodrigues/](https://www.linkedin.com/in/lancelot-rodrigues/)
+- 📄 Fui gerente por um ano e estou em transição para a área de dados 
 
 <h3 align="left">Me encontre em:</h3>
 <p align="left">
