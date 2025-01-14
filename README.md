@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, eu sou o Lancelot Rodrigues</h1>
-<h3 align="center">Estudante e apaixonado por ciência de dados e análise de dados</h3>
+<h3 align="center">Apaixonado por análise de dados e ciência de dados</h3>
 
 - 🌱 Estudante de **Inteligência Artificial**
 
