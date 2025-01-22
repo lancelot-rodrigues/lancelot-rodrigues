@@ -3,7 +3,7 @@
 
 - 🌱 Estudante de **Inteligência Artificial**
 
-- 💬 Hábil em **Python, SQL, Machine Learning, Excel e Power BI**
+- 💬 Hábil em **Python, SQL, Machine Learning, R, Excel e Power BI**
 
 - 📫 Você me acha através do e-mail **lancelot.rodrigues@outlook.com**
 
