@@ -7,7 +7,7 @@
 
 - 📫 Você me acha através do e-mail **lancelot.rodrigues@outlook.com**
 
-- 📄 Fui gerente por um ano e estou em transição para a área de dados 
+- 📄 Fui gerente de vistoria veicular por um ano e estou em transição para a área de dados 
 
 <h3 align="left">Me encontre em:</h3>
 <p align="left">
