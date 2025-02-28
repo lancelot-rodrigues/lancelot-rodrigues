@@ -7,7 +7,9 @@
 
 - 📫 Você me acha através do e-mail **lancelot.rodrigues@outlook.com**
 
-- 📄 Estou em transição de carreira para a área de dados 
+- 📄 Estou em transição de carreira para a área de dados
+
+- 🖥️ Meu portfólio: https://lancelot-rodrigues.github.io/portfolio_projetos/
 
 <h3 align="left">Me encontre em:</h3>
 <p align="left">
